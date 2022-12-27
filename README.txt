@@ -16,7 +16,7 @@ The Volatility distribution is available from:
 http://www.volatilityfoundation.org/#!releases/component_71401
 
 Volatility should run on any platform that supports 
-[Python](http://www.python.org)
+Python (http://www.python.org)
 
 Volatility supports investigations of the following memory images:
 
